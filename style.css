@@ -37,7 +37,7 @@
       top: 0;
       z-index: 1000;
       background: var(--color-bg);
-      height: var(--header-h);
+      height: var(16px);
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -333,7 +333,7 @@
        ABOUT SECTION
     ============================================================ */
     #about {
-      background: var(--color-about);
+      background:  #ffffff;
       padding: 5rem 2.5rem;
     }
  
