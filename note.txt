@@ -1,0 +1,77 @@
+                            
+ ===================================Header and Hero============================
+ 
+ I want a landing page of  a personal portfolio website.  At the header, there should be menu bars showing Home, About Projects and Contact. At the header, let there be a logo of books and tech image together. The menu Bars should be clickable and capable of navigating to other pages. the background color should be #11212D. THE background color of the hero section should be  #9BA8AB
+
+===========================================About Section===============================
+
+At the about section, i want the background color to be  #253745 and i want about image to be at the left hand side of the about section and this note about me
+ "I am a practicing lawyer, lifelong learner, and technology enthusiast passionate about using innovation to solve real-world problems. My journey into technology began with a desire to expand my skills and create solutions that make a meaningful impact on people's lives.
+
+I have completed training in HTML, CSS, Tailwind CSS, and Bootstrap, and I am currently advancing my knowledge in JavaScript and Artificial Intelligence. I believe in continuous learning and personal growth, and I am committed to mastering every skill I set out to learn.
+
+My vision is to bridge the gap between law and technology by developing digital solutions that improve access to legal services, empower communities, and create opportunities for collaboration and growth. I am particularly interested in building platforms that enable people to access legal assistance remotely, connect with like-minded individuals in the tech ecosystem, and unlock global opportunities.
+
+As I continue my journey in technology, I remain driven by curiosity, innovation, and a desire to create tools that make a positive difference in society." . The text should be white.
+
+
+==================Projectsroject Section==========================================
+
+ I want you to create three cards which will be in a column, each card displaying that i haven completed the following projects;
+
+ 1. Portfolio Website
+To create a professional online presence that showcases skills, projects, achievements, and experience in a visually appealing and accessible manner, helping potential employers, clients, and collaborators learn more about the individual.
+Process:
+
+* we were given the  website structure and user interface
+* Developed the website using HTML, CSS, and responsive design principles.
+* Tested the website across different screen sizes and devices.
+* Deployed the finished project on GitHub for public access.
+
+
+2. Restaurant Website
+To provide customers with an easy way to explore menu offerings, learn about the restaurant, place orders, and access contact information, thereby improving customer engagement and convenience.
+Process:
+
+* Researched restaurant website layouts and user needs.
+* Designed the user interface, including homepage, menu, and contact sections.
+* Built the website using HTML, CSS, and responsive design techniques.
+ * Deployed the finished project on GitHub for public access.
+
+3. Technology Company Website
+
+To establish a strong digital presence for a technology company by showcasing its products, services, innovations, and expertise while building credibility and attracting potential clients, partners, and investors.
+The card should have a hover effect and annimation of xy. at this Project section i want the background color tobe #9BA8AB. I want the card color to be #253745 with a white text and color #06141B When you hover on it. 
+Process:
+* Replicated the UI design that was given to us
+* Deployed the finished project on GitHub for public access.
+* Built the website using Tailwind CSS, and Tailwind responsive design techniques.
+
+============================Contact Section==========================================
+I want the contact section to be a form containting the following;
+Contact Form
+
+
+* Full Name
+* Email Address
+* Subject
+* Message
+* Submit Button
+These information should be at the left side and  also the following social media handles at the left hand side of the form;
+
+Follow Us
+
+* LinkedIn
+* Facebook
+* Instagram
+* X (Twitter)
+The social channels should come with their icons.
+Note that the form should be centered with a backgrond color of #CCD0CF
+
+The backgrond that will applay in the whole main section should be #9BA8AB
+
+========================Footer================================
+
+There should be footer with a copy right and has background color similar to the header.
+Both the header and the footer should be sticky.
+And lastly the landing page should be mobile responsive. i need a well structured html and css for this website, it should have comment for easy identification and engineering. In a mobile the menu bars should not show, it should be replaced with a hamburger which will display the menu bar when you hover on it and those bars should also be clickable for navigation.
