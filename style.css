@@ -872,12 +872,15 @@
         display: flex;
         flex-direction: column;
         gap: 2rem;
+        padding-top: 0;
+        
         
       }
       #home img{
       width: 500px;
-      height: 60vh;
+      height: 55vh;
       margin-left: 2rem;
+
       }
       .hero-content div{
          font-size: 20px;
